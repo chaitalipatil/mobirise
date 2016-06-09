@@ -1,0 +1,22 @@
+{
+  "name": "mobirise",
+  "version": "1.0",
+  "homepage": "https://github.com/chaitalipatil/mobirise",
+  "authors": [
+    "Chaitali Patil <cpatil@saiashirwad.com>"
+  ],
+  "description": "Mobirise Free Template",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "mobirise"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
